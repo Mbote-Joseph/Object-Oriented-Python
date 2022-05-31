@@ -1,0 +1,12 @@
+## Outline
+Classes Introduction
+Functions inside Classes
+Inheritance
+Encapsulation(Private/Public)
+Properties(Getter/Setter)
+
+## Principles of OOP
+Inheritance
+Polymorphism
+Encapsulation
+Abstractions
